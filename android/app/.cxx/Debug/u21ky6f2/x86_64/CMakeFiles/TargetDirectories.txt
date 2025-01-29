@@ -1,0 +1,2 @@
+C:/Users/Admin/Documents/GitHub/Zap_Android_User/android/app/.cxx/Debug/u21ky6f2/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Admin/Documents/GitHub/Zap_Android_User/android/app/.cxx/Debug/u21ky6f2/x86_64/CMakeFiles/rebuild_cache.dir

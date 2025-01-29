@@ -1,0 +1,8 @@
+flutter_launcher_icons:
+  image_path: "icons/IMG_0331.jpg"
+  android: true
+  min_sdk_android: 21 # Minimum Android SDK version
+  # ios: false # Uncomment to disable iOS icon generation
+  # web: false # Uncomment to disable web icon generation
+  # windows: false # Uncomment to disable Windows icon generation
+  # macos: false # Uncomment to disable macOS icon generation

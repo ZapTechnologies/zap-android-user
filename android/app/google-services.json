@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461474743043",
+    "project_id": "q-up-2b8ae",
+    "storage_bucket": "q-up-2b8ae.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461474743043:android:be9ca907c792ce9af5df36",
+        "android_client_info": {
+          "package_name": "com.organization.zap_admin_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCRAHdDG68eJzHKgoMJ4eW4k7-Ovk8so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461474743043:android:cff0b90c267d9f91f5df36",
+        "android_client_info": {
+          "package_name": "com.organization.zap_android_user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUCRAHdDG68eJzHKgoMJ4eW4k7-Ovk8so"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
